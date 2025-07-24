@@ -1,4 +1,4 @@
-//  Average Time of Process per Machine 
+/*  Average Time of Process per Machine 
 
 /*
 +----------------+---------+
